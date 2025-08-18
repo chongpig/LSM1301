@@ -92,5 +92,212 @@ Organic substances which are insoluble in polaar solvents , such as water. Inclu
 		Head with phosphate group, polar and hydrophilic
 	Formed by condensation
 3. Steroids
-	Steroids are composed of four carbon rings fused together, with various funcctional groups protruding from them 
+	Steroids are composed of four carbon rings fused together, with various functional groups protruding from them 
 	eg: Cholesterol, Bile salt(cholic acid)
+
+---
+# L2
+## 1.Cell
+### Cell Size
+* Most cells are small
+* Large surface area needed
+* Surface-area-to-volume ratio
+### Cell Theory
+Three principles comprise cell theory:
+* Every living things or organisms are made of one or more cells.
+* Cells are functional units of multicellular organism.
+* All cells come from pre-existing cells.
+### Types of cells
+* Prokaryotic(before nucleus)
+* Eukaryotic(true nucleus)
+### Structure
+* Plasma membrane
+Encloses cell and keeps cell as distinct entity from environment
+Boundary that controls passage of substances in and out of cell
+* DNA-Containing region
+Nucleus – in eukaryotes
+Nucleoid region – in prokaryotes
+* Cytoplasm
+Fluid portion and structures between plasma membrane and DNA-containing region
+Fluid portion contains water, salts and organic molecules – cytosol
+Structures with specific functions – organelles
+## 2. Cell Membranes
+### Membrane Structure
+* Fluid mosaic model
+Mosaic mixture of phospholipids, steroids and proteins
+Constantly drifting and moving within viscous fluid of phospholipid bilayer
+* Phospholipid bilayer
+Forms selectively permeable barrier
+Some are glycolipids, with attached carbohydrate chains
+### Membrane Structure(plant cell)
+* Associated proteins
+Float around like icebergs on sea
+Some anchored by protein filaments in cytoplasm
+Cell wall outside plasma membrane
+Some are partially or wholly embedded in bilayer
+Some are temporarily attached to surface of bilayer
+### Membrane Structure(animal cell)
+* Associated proteins
+Responsible for variety of membrane functions – adhesion, enzymes, receptors, recognition, transport.
+* Glycoproteins
+Carbohydrates attached to protein
+### Cell membranes functions
+* Plasma membrane
+Common to all cells
+Separates cell’s internal cytoplasm from external environment
+Controls traffic of substances in and out of cell (transporters)
+Regulates biochemical reactions (receptors)
+Communicates with other cells (glycoproteins)
+Creates attachments within (cytoskeleton) and between cells
+* Basic structure of all membranes in cells – similar
+Bilayer of phospholipids with embedded and attached proteins
+### Transport of Substance  Across Membranes
+1. Passive transport: no energy required:
+	* simple diffusion
+	* facilitated diffusion (require protein transporter)
+2. Active transport: energy-requiring transport 
+	* Such as sodium-potassium pump proteins
+### Diffusion
+* Diffusion
+Net movement of molecules down a concentration gradient (high to low concentration)
+* Osmosis – special case of diffusion
+Diffusion of water across a selectively permeable membrane down its own concentration gradient
+From high water (low solute) concentration to low water (high solute) concentration
+### Movement of water across membranes by osmosis
+* Isotonic solution
+Solute concentration equal on both sides of membrane
+* Hypotonic solution
+Solute concentration lower than on other side of membrane
+* Hypertonic solution
+Solute concentration higher than on other side of membrane
+### Facilitated difussion
+Facilitated diffusion (facilitated transport)
+Ions and polar molecules
+No energy required
+Follow their concentration gradients
+Transport proteins (conformational change) required
+Specialised water-channel proteins, aquaporins, enhance water transport
+### Active Transport
+The movement of materials across a membrane through the use of cellular energy, normally against a concentration gradient
+Active transport is performed by specific proteins (pump) embedded in the membranes
+Active transport allows cells to maintain concentration gradients that differ from their surroundings
+   e.g. keep a low concentration of Na+ inside cell even the 
+   Na+ concentration is very high outside cell.
+### Exocytosis/Endocytosis
+* Large substances are transported into or out of cell inside membrane enclosed pouches (vesicles)
+Macromolecules and particles too large for transport proteins
+Formation and movement of vesicles involve motor proteins and ATP
+* Exocytosis
+Vesicle fuses with plasma membrane, releasing contents outside cell
+* Endocytosis
+Small patch of plasma membrane pinched off, forming vesicle, engulfing substances near cell surface, bringing them into cell
+### Cell wall
+* Relatively stiff structural coating that surround plasma membranes
+Strong, flexible and porous
+Support and protect fragile cell
+* Found in nearly all
+Bacteria
+Archaea
+Protists
+Fungi – chitin
+Plants – cellulose
+## Prokaryotic Cells
+* Extremely small
+* Specialised surface features
+* can take several shapes
+### prokayotic cells structure
+* Cell envelope:
+Cell wall – polysaccharides in bacteria, proteins in archaea
+Glycocalyx – polysaccharide coating outside cell wall – slime layer and capsule (harder to remove)
+Plasma membrane
+* Appendages
+Flagella – in some bacteria for motility
+Fimbriae (attachment pili) – bristle-like, short and abundant, for adhesion to surfaces
+Conjugation pili (sex pili) – tubular, long and fewer, for DNA transfer from cell to cell
+* Cytoplasm
+Fewer specialised cytoplasmic structures
+Nucleoid – irregularly shaped region of single, circular chromosome of DNA molecule
+Plasmids – small rings of DNA with few genes that may be advantageous, e.g. resistance to antibiotics
+Ribosomes – organelles on which proteins are synthesized
+May contain inclusion bodies, e.g. food granules
+## 4.Eukaryotic Cells
+* Much larger than prokaryotic cells 
+* DNA in a nucleus that is bounded by a membranous nuclear envelope 
+* Membrane-enclosed organelles result in compartmentalisation
+Specialised organelles for specific functions
+Types and amounts of substances that enter and exit organelles regulated
+Maintains special internal environments
+Metabolic reactions isolated from others
+### Nucleus
+* Control center of the eukaryotic cell (stores DNA)
+* Three major components
+Nuclear envelope (double membrane)
+Chromatin
+Nucleolus (carrying genes for ribosomes production)
+### Chromatin and Chromosome
+Consists of DNA and proteins
+Chromatin condenses to form chromosomes during cell division
+Chromatin are long thin fibres, but chromosomes are compacted, thick and ribbon-like.
+They contain genes that provide a blueprint for a huge variety of proteins
+### Chromosomes
+* Every eukaryotic species has a characteristic number of chromosomes in each cell nucleus
+* Somatic cells (non-reproductive cells) have two sets of chromosomes, one from the father and one from the mother. 
+* Gametes (Gametic cells, reproductive cells: sperm and eggs) have half as many chromosomes as somatic cells
+### Endomembrane System (Cell’s Membrane System)
+* Components of the endomembrane system:
+Nuclear envelope
+Endoplasmic reticulum
+Golgi apparatus/complex
+Lysosomes
+Vacuoles
+Plasma membrane
+* These components are either continuous or connected via transfer by vesicles/vacuoles
+* Functions: 
+Synthesizes, modifies, and transports proteins
+Synthesizes lipids
+Detoxifies the cell of certain toxins
+### Endoplasmic Reticulum (ER)
+* A network of sacs and tubules composed of membranes. This complex organelle originates at the nuclear envelope and winds throughout the cell. 
+Two forms
+* Rough ER:Flattened sacs
+Studded with ribosomes on outer surface
+Synthesises, modifies and folds proteins
+* Smooth ER
+Series of inter-connected tubules
+No ribosomes
+Synthesises lipids (like steroid hormones made from cholesterol)
+Detoxify harmful chemical drugs
+### Golgi Complex/Apparatus
+* Set of stacked flattened, curved sacs
+* Receives material from ER in vesicles
+* Modifies some molecules, such as adding a carbohydrate group to proteins, and making glycoproteins; it breaks some proteins into smaller peptides 
+* Synthesizes some polysaccharides used in plant cell walls, such as cellulose and pectin
+* Sort and Packages finished material in vesicles for shipment to final destinations 
+Some within cell
+Some exported from cell via exocytosis
+### Lysosomes
+* Function :
+	digest macromolecules
+	clean up broken down organelles, bacteria virus
+* Structure:
+	vesicles of digestive enzymes
+### Energy-related Organelles
+Mitochondria:The sites of cellular repiration, a metabolic process that generate ATP. function as the powerhouses of the cell
+* Mitochondria are in nearly all eukaryotic cells (plant and animal).
+* They have a smooth outer membrane and an inner membrane folded into cristae.
+* Cristae present a large surface area for enzymes that synthesize ATP.
+* The inner membrane creates two compartments: intermembrane space and mitochondrial matrix.
+* Cellular respiration broke down carbohydrate in the mitochondrial matrix to generate high-energy electron carriers, e.g. NADH.
+* The electron transport chain complexes in inner membrane transfer electron from NADH to O2 and generate ATP.
+
+Chloroplast: found in plants and algae are the sites of photosynthesis
+Both organelles have their own DNA
+* Chloroplasts are only found in plant cell.
+* Thylakoid membranes contains chlorophyll pigment that carry out light reaction converting light energy to chemical energy, e.g. ATP
+* Stroma is the site for dark reaction, using ATP to synthesize carbohydrate from CO2 and water.
+### Cytoskeleton
+* Microfilament is comprised of actin and provide internal support to the cell shape.
+* Microfilament can extend by adding subunits at one end and releasing subunits at the other end to allow cell movement.
+
+* Microtubule is associated with motor proteins to transport organelles within the cell.
+* Microtubule also guide chromosome movements during cell division.
