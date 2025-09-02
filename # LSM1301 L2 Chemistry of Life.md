@@ -298,6 +298,254 @@ Both organelles have their own DNA
 ### Cytoskeleton
 * Microfilament is comprised of actin and provide internal support to the cell shape.
 * Microfilament can extend by adding subunits at one end and releasing subunits at the other end to allow cell movement.
-
 * Microtubule is associated with motor proteins to transport organelles within the cell.
 * Microtubule also guide chromosome movements during cell division.
+
+# L4 Energy
+
+## 1.1 Energy – the capacity to do work
+* Two fundamental forms of energy
+	* Kinetic energy – energy of motion being used to do work
+	* Potential energy – stored energy to do work
+* One form of energy can be converted to another form
+	* Plants trap energy from sun via photosynthesis and convert it into chemical bond energy
+	* All organisms use energy stored in bonds of organic compounds to do work
+* Energy stored in chemical bonds – type of potential energy
+
+## 1.2 
+* Autotrophs
+autos = self; trophe = nutrition 
+Self-feeders, producers
+Plants capture light energy to make food – photosynthesis
+
+* Heterotrophs
+heterone = (an)other 
+Other-feeders, consumers
+Organisms acquire energy from molecules of other organisms
+
+## 1.3 Metabolic reactions
+* Metabolism
+	* Sum of chemical reactions in cell
+* Reactants
+	* Chemical substances that enter a chemical reaction
+* Products
+	* Chemical substances that form as result of a chemical reaction
+* Chemical reactions can be categorised based on energy gain or loss
+	* Endergonic reactions
+	* Exergonic reactions
+
+* Endergonic Reactions 
+	Require an input of energy
+	Products contain more free energy than reactants
+	Example – photosynthesis
+* Exergonic Reactions
+	Net release of energy
+  	Products contain less free energy than reactants
+  	Example – cellular respiration
+
+* Metabolic reactions occur in sequences – metabolic pathways
+	Products of one earlier reaction become reactants of another later reaction
+	Catalysed by enzymes (biological catalysts)
+	Each reaction requires a unique and specific enzyme
+* Catabolism
+	Breakdown of complex molecules such as food
+	Produces energy (exergonic)
+* Anabolism
+	Synthesis of complex molecules
+	Uses energy (endergonic)
+## 1.4 Enzymes
+* Enzymes are catalytic compounds that drive biochemical reactions in living systems. The majority of enzymes are proteins.
+* Enzymes orient, distort, and reconfigure molecules in the process of lowering activation energy
+* Activation energy is the minimum energy required to start a chemical reaction.
+* Some enzymes require helper (coenzyme) molecules to function (e.g. B vitamins, metal ions).
+* Enzymes are very specific for the molecules they catalyze.
+* Enzyme activity is often enhanced or suppressed by their reactants, products and buffer conditions.
+
+* Enzyme Structure
+	* Enzymes have a pocket called an active site
+	* Reactants (substrates) bind to the active site
+	Distinctive shape of active site is complementary and specific to the substrate (lock and key)
+	Active site amino acids bind to the substrate and distort bonds to facilitate a reaction
+
+* Enzymatic Action
+	* The active site is flexible, not rigid
+	* The shape of the enzyme, active site, and substrate adjust to maximize the fit, which improves catalysis. 
+	* There is a greater range of substrate specificity
+
+## 1.5 Energy carrier Molecules
+* High-energy, unstable molecules
+	* Synthesized at sites of exergonic reactions
+	* Capturing some released energy
+	Most common: 
+	Adenosine triphosphate (ATP)
+
+* ATP
+	* ATP links endergonic to exergonic reactions through coupled reactions
+		* Energy released by exergonic reaction used to combine relatively low-energy 			adenosine diphosphate (ADP) and phosphate (P) into ATP
+		* Energy captured in high-energy bonds of ATP
+	* ATP used to drive endergonic reaction
+		* Where energy is needed, ATP is broken down into ADP and P
+		* Stored energy is released
+	* phosphoanhydride bonds
+	* ATP – short-term energy storage
+		* Not stockpiled in cells
+		* Recycled at furious pace
+		* Long-term energy storage molecules –triglycerides, starch and glycogen
+
+* Electrons
+	* Energy can be transferred to electrons in metabolic pathways
+		E.g. cellular respiration, photosynthesis
+	* High-energy electrons then passed from one molecule to another –oxidation-reduction (redox) reactions
+		Oxidation – loss of electrons
+		Reduction – gain of electrons
+	* Both oxidation and reduction reactions occur at same time – one molecule accepts electrons given up by another
+		Molecule that gives up electrons is oxidised
+		Molecule that accepts electrons is reduced
+		$NAD^+ + H^+ + 2e^- ↔ NADH$
+		
+	* Electron carriers transport high-energy electrons
+		E.g. nicotinamide adenine dinucleotide (NAD+), flavin adenine dinucleotide (FAD)
+	* Electron carriers then donate high-energy electrons to other molecules – membrane-		embedded proteins in mitochondria and chloroplasts
+		Electron transport chain
+	* Leads to synthesis of high-energy ATP
+		Left with low-energy electrons
+		
+* Energy release
+	* During photosynthesis – energy of sunlight captured, stored in the form of glucose
+	* Glucose produced during photosynthesis
+		Consumed and broken down by nearly all organisms
+		Energy captured in the form of ATP
+	* Main metabolic pathways to generate ATP from glucose breakdown
+		Aerobic pathways (need O2)
+		Anaerobic pathways (no O2)
+	* Aerobic pathways
+		Require oxygen
+		Used by most eukaryotes
+		E.g. aerobic cellular respiration
+	* Anaerobic pathways
+		Do not require oxygen
+		Used by prokaryotes and protists in anaerobic habitats
+		E.g. anaerobic respiration, fermentation
+	
+## 1.6 Aerobit Cellular respiration
+* Usually involves breakdown of glucose to CO2 and H2O
+* Energy extracted step-wise from glucose – allows for efficient production of ATP
+	Electrons removed from intermediates, received by oxygen, which combines with hydrogen 		ions (H+) to become water
+	Electrons carried by NADH (reduced form of NAD+) and FADH2 (reduced form of FAD)
+
+* Aerobic cellular respiration: 4 stages
+1. Glycolysis (occur in cytoplasm, no O2 needed)
+2. Converting pyruvate to acetyl-CoA
+	Occurs in cytoplasm (in prokaryotes)
+	Occurs in matrix of mitochondria (in eukaryotes)
+3. Citric acid cycle (Krebs cycle or TCA cycle)
+	Occurs in cytoplasm (in prokaryotes)
+	Occurs in matrix of mitochondria (in eukaryotes)
+4. Electron transport and oxidative phosphorylation
+	Occurs in plasma membrane (in prokaryotes)
+	Occurs in inner membrane of mitochondria (in eukaryotes)
+
+* Breathing vs Respiration
+	* Breathing: taking air in (inspiration) and out of your lungs (expiration); can be consciously controlled (voluntary action)
+
+	* Respiration: the part of a metabolic process; cellular activity (occurs inside a cell); the end products are energy molecules, carbon dioxide and water; cannot be consciously controlled (involuntary action)
+		Aerobic respiration (when oxygen is available)
+		Anaerobic respiration (metabolism without oxygen)
+
+* Glycolysis
+	* Breakdown of one glucose (6-carbon) molecule
+		Into two pyruvate (3-carbon) molecules
+		Net yield of two ATP and two NADH molecules
+	* Consists of 10 reactions
+	* Does not require oxygen
+	* Occurs in two stages
+		Energy investment stage (activation stage)
+		Energy harvesting stage
+
+* Two stages in Glycolysis
+	* Energy investment stage
+		One glucose (6-carbon) molecule is split into two 3-carbon molecules
+		Phosphate groups added to the 3-carbon molecules
+		Phosphorylation results in more reactive molecule – glucose is relatively stable
+		Two ATP molecules used to activate one glucose molecule
+	* Energy harvesting stage
+		* Conversion of phosphorylated 3-carbon molecules to pyruvate molecules
+		* Phosphorylated 3-carbon molecules oxidised by removal of electrons and H+
+		* Electrons and H+ accepted by NAD+ resulting in high-energy electron-carrier 			molecule NADH
+		* Two phosphorylated 3-carbon molecules produced per glucose molecule – two 			NADH molecules formed
+		* Two ATP molecules generated by substrate-level phosphorylation for each molecule 			of pyruvate produced
+		* Two pyruvate molecules produced per glucose molecule - 4 ATP molecules 				generated
+		* Two ATP molecules used to activate one glucose molecule – net gain of two ATP 		molecules
+
+* Formation of Acetyl CoA
+$Pyruvate + CoA + NAD^+ -> CO_2 + acetyl + NADH + H^+$
+2 NADH and 2 CO2 produced for each glucose, No ATP generated
+
+* Krebs cycle:Each turn:
+	2 CO2
+	1 ATP
+	3 NADH
+	1 FADH2
+	* The Krebs cycle begins by combining acetyl CoA (two-carbon) with a four-carbon molecule 		to form six-carbon citrate, and coenzyme A is released.
+	* As the Krebs cycle proceeds, enzymes in the matrix break down the acetyl group, 			releasing two CO2 molecules and regenerating the four-carbon molecule for use in future 	cycles.
+	* Each acetyl group produces one ATP, three NADH, and one FADH2
+	* Flavin adenine dinucleotide (FAD), a high-energy electron carrier similar to NAD, picks up 		two electrons and two H+, forming FADH2
+	* CO2 is generated as a waste product. CO2 diffuses out of cells and into the blood, which 		carries it to the lungs, where it is exhaled
+	* One glucose molecule needs two cycles to break into CO2
+
+* From glycolysis, acetyl-CoA formation and citric acid cycle
+	* High-energy electrons captured by NAD+ and FAD
+	* For every glucose molecule, ten NADH and two FADH2 produced
+
+* NADH and FADH2 release electrons to electron transport chain
+	* Electron transport chain – series of electron carrier proteins
+		In eukaryotes – embedded in inner mitochondrial membrane
+		In prokaryotes – embedded in plasma membrane
+	* High-energy electrons passed successively from one protein to another, losing small amounts of energy at each step
+
+* Energy lost by electrons harnessed by electron transport chain proteins to pump H+ from matrix into inter-membrane space
+* Higher H+ concentration in inter-membrane space
+gradient created
+* H+ flows down its gradient through ATP synthase, which drives synthesis of ATP from ADP and phosphate
+	Chemiosmosis – ATP production linked to establishment of H+ gradient
+* Oxygen accepts electrons and combines with H+ to form water
+Final electron acceptor – oxygen
+
+* Net yield per molecule of glucose
+	Glycolysis – 2 ATP
+	Citric acid cycle – 2 ATP
+	Electron transfer phosphorylation – 32 or 34 ATP
+	The reason for two different numbers exist for ATP synthesis is because of two different 		shuttles for NADH (from glycolysis) transfer from cytoplasm into the mitochondrial matrix.
+## 1.7 Fermentation
+* When there is no oxygen after glycolysis, fermentation will occur
+	Processes that use an organic molecule to regenerate NAD+ from NADH are collectively referred to as fermentation.
+	Do not break glucose down completely to carbon dioxide and water
+	Yield only 2 ATP from glycolysis
+* Lactate fermentation
+	In animals or bacteria – produces lactic acid
+* Alcoholic fermentation
+	In yeast – produces ethanol
+
+* What Happens During Lactate Fermentation?
+	* Carried out by muscle cells, certain bacteria and fungi
+	* Produces lactic acid
+	* NAD+ regenerated after NADH transfers electrons to pyruvate
+	* Used in production of cheese, yoghurt, sour cream and sauerkraut
+* What Happens During Alcohol Fermentation?
+	* Carried out by microorganisms such as yeasts under anaerobic conditions
+	* Produces CO2 and ethanol
+	* NAD+ regenerated to accept more high-energy electrons during glycolysis
+	* Used in production of alcoholic spirits and breads
+* Fermentation
+	Input : glucose, 2ADP, 2P
+	Output: 2 lactATE/2Alcohol+2CO2
+## 1.8 Food and Energy
+* Starch and other complex carbohydrates
+	Broken down to monosaccharide subunits that enter glycolysis
+* Fats (triglycerides) broken down to glycerol and fatty acids
+	Glycerol enters glycolysis
+	Fatty acids converted to acetyl-CoA that enter citric acid cycle
+* Proteins broken down to amino acid subunits
+	Usually used to build proteins but may be used as energy source
+	Amino group removed and converted into waste product eliminated in urine
+	Remaining carbon groups converted to acetyl-CoA, pyruvate or intermediates of citric cycle, depending on amino acid
