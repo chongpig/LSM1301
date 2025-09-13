@@ -549,3 +549,66 @@ Final electron acceptor – oxygen
 	Usually used to build proteins but may be used as energy source
 	Amino group removed and converted into waste product eliminated in urine
 	Remaining carbon groups converted to acetyl-CoA, pyruvate or intermediates of citric cycle, depending on amino acid
+
+# L5 DNA and Heredity
+
+## 1. What is DNA
+* Deoxyribo Nucleic Acid or DNA is a long chain of nucleotides
+Nucleotides are the monomers (building blocks) of nucleic acid chains
+All nucleotides are made of three parts:
+	Phosphate group 
+	Five-carbon sugar
+	Nitrogen-containing base
+
+* DNA:	DeoxyriboNucleic Acid
+  RNA:	RiboNucleic Acid
+
+* DNA chain are formed by condensation
+
+* To rule out the possibility that a protein contaminant was actually causing the transformation, Avery treated samples with protein-destroying enzymes (protease) and still induced transformation
+When DNA-destroying enzymes (DNase) were added to the samples, transformation did not occur
+This suggested that the transforming molecule from the S-strain was DNA, not protein
+
+* The experiments can be explained if DNA is the transforming agent
+Heating S-strain cells killed them but did not completely destroy their DNA
+When killed S-strain bacteria were mixed with living R-strain bacteria, fragments of DNA from the dead S-strain cells was absorbed and incorporated into the chromosome of the R-strain bacteria
+If these fragments of DNA contained the genes needed to cause disease, an R-strain cell would be transformed into an S-strain cell
+Thus, Avery, MacLeod, and McCarty concluded that genes are made of DNA.
+
+* Used radioactive isotopes to label two sets of phage
+Radioactive sulphur 35S to label protein
+Radioactive phosphorus 32P to label DNA
+Allowed labelled viruses to infect bacteria
+Location of radioactive labels after infection
+shown that DNA, not protein, enters and infects bacterium
+
+* The relative amounts of A, G, T, and C bases in a DNA molecule varies from one species to another (i.e. differs in different DNA molecules)
+The number of A is equal to T
+The number of G is equal to C
+
+* Watson-Crick Model
+DNA consists of two nucleotide chains (two strands)
+In opposite directions (antiparellel)
+Double helix
+Resemble a ladder twisted around its axis
+Each rung consisting of a pair of bases
+Deoxyribose and phosphate units linked together alternately into sugar-phosphate backbone
+Hydrogen bonds between pairs of bases 
+A=T
+C≡G
+
+* How Does DNA Encode Information?
+How can a molecule with only four simple parts be the carrier of genetic information?
+The key lies in the sequence of nucelotides
+Within a DNA strand, the four types of nucleotides can be arranged in any linear order, and this sequence is what encodes genetic information
+The genetic code is analogous to languages, where small sets of letters combine in various ways to make up many different words
+The sequence of only four nucleotides can produce many different combinations
+
+* Chromatin vs Chromosome
+Both are structures within living cells that contain the genetic material. 
+Biochemically, chromosomes are composed of
+DNA, which is the genetic material
+Proteins, which provide an organized structure
+
+* Gene vs DNA
+	A gene is a specific sequences of nucleotides, is a basic physical and functional unit of 		heredity, usually corresponding to a single protein or RNA
