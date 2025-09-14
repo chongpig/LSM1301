@@ -612,3 +612,170 @@ Proteins, which provide an organized structure
 
 * Gene vs DNA
 	A gene is a specific sequences of nucleotides, is a basic physical and functional unit of 		heredity, usually corresponding to a single protein or RNA
+
+* Dominant genes will show phenotypic trait when homozygous or heterozygous
+Recessive genes will only show phenotypic trait when homozygous
+
+* DNA Replication
+	* Begins when DNA unwinds and unzips into two strands
+		1. By DNA helicases, that pull apart the parental DNA double helix at the hydrogen bonds between the complementary base pairs.
+		2. Hydrogen bonds between bases broken
+		3. Formation of replication bubbles and replication forks
+	* Short RNA primer synthesised first to provide 3' end for DNA polymerase
+		* Primer is synthesized by RNA polymerase (Primase) 
+		* A typical primer is about five to ten nucleotides long. The primer primes DNA synthesis, i.e., gets it started.
+	* Each old strand serves as template for synthesis of new strand
+		* By DNA polymerases
+		* Based on complementary base-pairing rule
+	* DNA polymerase adds nucleotides in 5' to 3' direction only.
+		* Can only join new nucleotide to free 3' end of previous nucleotide.
+	* Leading strand synthesised continuously
+	* Lagging strand synthesised in short fragments
+		* Okazaki fragments
+		* Joined together by DNA ligase
+	* Semi-conservative replication
+		Each strand of double helix acquires a new strand
+		Each “old” parent strand serves as template for complementary “new” daughter strand
+		Each new DNA molecule is half “old” and half “new”
+	
+* Mitosis: 1 diploid cell to 2 diploid cells
+  Meiosis: 1 diploid cell to 4 haploid cells
+  Independent assortment allow 223 combinations of 23 pairs of chromosomes in human gametes
+
+* DNA mutation
+	* A mutation is a change in a cell’s DNA sequence, either in a protein coding gene or in a noncoding regulatory region.
+	* Mutations may have varying effects on function
+		* Mutations are often harmful, and an organism inheriting them may quickly die
+		* Some mutations may have no functional effect
+		* Some mutations may be beneficial (rarely) and provide an advantage to the organism in certain environments
+			These advantageous mutations may be favored by natural selection and are the basis for evolution of life on Earth
+
+* How do mutations occur
+	* Mistakes do happen: DNA is altered or damaged in a number of ways
+		* Mistakes are made during normal DNA replication
+		Replicated DNA strands usually contain only about one mistake in every 100 million to 1 billion base pairs
+		* Certain chemicals (some components of cigarette smoke, for example) increase DNA errors during and after replication
+		* Ultraviolet radiation or X-rays also contribute to incorrect base pairing
+
+
+# L6 Gene Expression
+## 1. How are gene expressed
+* Central dogma:
+	Transcription 
+		Information in DNA copied into mRNA
+		In eukaryotes, occurs in nucleus, then mRNA moves into cytoplasm
+	Translation
+		mRNA translated to form polypeptide chains, which fold to form proteins
+	
+* From DNA ro Proteins
+	* The information content of DNA is in the form of specific sequences of nucleotides
+	* The DNA inherited by an organism leads to specific traits by dictating the synthesis of proteins
+	* Proteins are the links between genotype and phenotype (involved in cell shape, function, reproduction, and synthesis of biomolecules)
+	* Gene expression, the process by which DNA directs protein synthesis, includes two stages: transcription and translation
+## 2. Transcription
+### 2.1 Three types of RNA
+* RNA is the intermediate between genes and the proteins for which they code
+* Transcription is the synthesis of RNA under the direction of DNA
+* Transcription produces three types of RNAs
+	Messenger RNA (mRNA): carries DNA gene information to the ribosome
+	Transfer RNA (tRNA):brings amino acids to the ribosome
+	Ribosomal RNA (rRNA):is part of the structure of ribosomes
+
+### 2.2 Nucleotides in DNA & RNA
+* DNA:	DeoxyriboNucleic Acid
+  RNA:	RiboNucleic Acid
+### 2.3 mRNA
+* The base sequence of mRNA carries the information for the amino acid sequence of a protein; Each group of three mRNA bases in a row forms a codon, specify the amino acids
+### 2.4 rRNA
+* contains ribosomal RNA (rRNA)
+	where rRNA catalyzes the formation of the peptide bonds, named ribozyme
+* rRNA combines with proteins to form ribosomes. The small subunit binds mRNA. The large subunit binds tRNA and catalyzes peptide bond formation beetween amino acids during protein synthesis
+### 2.5 tRNA 
+* Each tRNA carries a specific amino acid at its 3’ end to a ribosome during protein synthesis (Adapter molecules)
+* Each tRNA has 3 exposed bases called anticodon, which pairs with a codon of mRNA, ensuring that the correct amino acid is incorporated into the protein.   
+* At least one tRNA assigned to carry each of the 20 amino acids
+### 2.6 Transcription Process
+Transcription of a DNA gene into RNA has three stages 
+
+
+	1. Initiation: RNA polymerase binds to the promoter region of DNA near the beginning of a gene, separating the double helix near the promoter.
+	2. Elongation: RNA polymerase travels along the DNA template strand (blue), unwinding the DNA double helix and synthesizing RNA by catalyzing the addition of ribose nucleotides into an RNA molecule (red). The nucleotides in the RNA are complementary to the template strand of the DNA.
+	3. Termination: At the end of the gene, RNA polymerase encounters a DNA sequence called a termination signal. RNA polymerase detaches from the DNA and releases the RNA molecule. 
+	
+	* RNA polymerase do not require
+any primer.
+### 2.7 mRNA Synthesis in Prokaryotic Cells
+* All the nucleotides in a gene usually code for the amino acids in a protein; 
+* Genes for related functions are adjacent (sit side by side) and are transcribed together
+* Because prokaryotes have no nuclear membrane, translation and transcription usually occur at the same place and time.
+* Ribosomes begin translation at the free 5’ end of mRNA, even as RNA polymerase is elongating the mRNA at its 3’ end
+
+* mRNA is directly used for protein synthesis in prokaryotes
+### 2.8 mRNA synthesis and maturation in eukaryotes
+* Each end of a pre-mRNA molecule is modified in a particular way:
+The 5' end receives a modified nucleotide 5 cap
+The 3' end gets a poly-A tail
+
+* mRNA undergoes maturation steps before it can be used for protein synthesis in eukaryotes
+	* Each gene consists of two or more segments of DNA that encode for protein, called exons, that are interrupted by other segments that are not translated, called introns
+	* Transcription of a gene produces a very long RNA strand that contains introns and exons, which is often called precursor mRNA, or pre-mRNA
+	* More nucleotides are added at the 5’ end and 3’ end of the pre-mRNA molecule, forming a “cap” and “tail”
+		* Cap and Tail assist with moving the RNA through the nuclear envelope, to bind the mRNA to a ribosome, and to prevent cellular enzymes from breaking down the mRNA
+	* Enzymes in the nucleus cut out the introns and splice together the exons to make mature mRNA
+	* The mRNA then exits the nucleus through a nuclear membrane pore and associates with a ribosome
+### 2.9 Alternate splicing in eukaryotes
+* Exons might combine in different combinations
+* Allow different mRNAs and multiple polypeptides from single gene
+### 2.10 A summary of transcription
+* Like DNA replication
+	* Require a template DNA
+	* New strand grows in 5' to 3' direction
+	* Both happen in the nucleus in eukaryotes
+* Unlike DNA replication
+	* Only small section (gene) of one strand of DNA as template
+	* Only RNA polymerase involved
+	* Does not need a primer
+	* Product is single strand of RNA instead of two identical DNA
+## 3. Translation
+### 3.1 Genetic Code
+* Base sequence in DNA dictates sequence and type of amino acids in protein
+* There are 20 amino acids, but there are only four nucleotide bases in DNA
+* The genetic code translates the sequence of bases in nucleic acids into the sequence of amino acids in proteins
+* The genetic code uses three bases (a triplet, codon) to specify an amino acid
+* Each mRNA also has a start codon (AUG) and one of three stop codons (UAG, UAA, and UGA)
+
+* Redundant but not ambiguous
+	* 64 (4^3) codons for 20 amino acids
+	* Each codon specifies only one specific amino acid; however, some amino acids are specified by as many as six different codons
+* Three stop codons do not specify any amino acid
+* Almost universal
+	* With few exceptions (some codons in bacteria and human are different), all organisms use same genetic code
+### 3.2 Reading Frame
+* A reading frame is a way of dividing the sequence of nucleotides in a nucleic acid (DNA or RNA) molecule into a set of 
+* Codons must be read in the correct reading frame (correct groupings) in order for the specified polypeptide to be produced
+* A frameshift mutation is a genetic mutation caused by a deletion or insertion in a DNA sequence that shifts the way the sequence is read.
+* Complementary Base-Pairing Is Critical to the Process of Decoding Genetic Information
+### 3.3 Translaation Process
+* Ribosomes, tRNA, and mRNA cooperate in protein synthesis. 
+* Like transcription, translation has three steps
+	* Initiation
+	* Elongation
+	* Termination
+### 3.4 Gene Regulation in Prokaryotes
+* Gene expression is regulated at a number of points
+	* Transcription (transcription factors)
+	* Post-transcription (alternative splicing)
+	* Translation (life span of mRNA)
+	* Post-translational modification (protein activity)
+	* Life span of proteins (protein degradation)
+### 3.5 Genes Regulation in Humans
+* The human genome contains ~ 30,000 genes
+* A given cell “expresses” (transcribes) only a small number of genes
+* Some genes are expressed in all cells
+* Other genes are expressed only
+	* In certain types of cells
+	* At certain times in an organism’s life
+	* Under specific environmental conditions
+### 3.6 Gene Regulation in Eukaryotes
+
+
